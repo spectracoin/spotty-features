@@ -8,7 +8,7 @@ export default class AnonLayout extends React.Component {
           <div className="hero-body">
             <div className="container">
               <h1 className="title">
-                <a href="/">Spotty Features</a>
+                <a href="/">SPOTRENDS</a>
               </h1>
             </div>
           </div>
